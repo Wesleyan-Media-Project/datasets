@@ -25,8 +25,6 @@ This repo is a part of the data storage and processing step. The output of this 
 
 ## Table of Contents
 
-[Can expand based on the particular aspects of the repo]
-
 - [Introduction](#introduction)
 
 - [Objective](#objective)
@@ -35,8 +33,7 @@ This repo is a part of the data storage and processing step. The output of this 
 
 ## Introduction
 
-This repository is meant as a place to store datasets whose creation isn't assumed to be replicable (but which are used as inputs to other things that are meant to be replicable from that point on). When you need to replicate the workflow of other repositories mentioned above, you can use the data in this repository as input.
-
+This repository is meant as a place to store datasets whose creation isn't assumed to be replicable (but which are used as inputs to other things that are meant to be replicable from that point on). When you need to replicate the workflow of other repositories mentioned above, you can use the data in this repository as input. Some repositories utilize TV data, which is not included in this repository due to contractual restrictions. To access the raw TV datasets, users are required to apply directly. Visit http://mediaproject.wesleyan.edu/dataaccess/ and fill out the online request form to access the TV datasets.
 ## Objective
 
 Each of our repos belongs to one or more of the following categories:
