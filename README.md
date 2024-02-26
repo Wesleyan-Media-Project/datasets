@@ -21,7 +21,7 @@ This repo is a part of the Data Processing. The output of this repo can be utili
 - [fb_2020](https://github.com/Wesleyan-Media-Project/fb_2020)
 - [attack_like](https://github.com/Wesleyan-Media-Project/attack_like)
 
-![A picture of the repo pipeline with this repo highlighted](Creative_pipeline.png)
+![A picture of the repo pipeline](Creative_Pipeline.png)
 
 ## Table of Contents
 
