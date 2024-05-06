@@ -1,8 +1,11 @@
 # Wesleyan Media Project - datasets
 
-Welcome! This repo is part of the Cross-platform Election Advertising Transparency initiatIVE (CREATIVE) project. CREATIVE is a joint infrastructure project of WMP and privacy-tech-lab at Wesleyan University. CREATIVE provides cross-platform integration and standardization of political ads collected from Google and Facebook.
+Welcome! This repo contains datasets which are not easily replicable but which are needed as inputs to other repos that make up the CREATIVE project. Notably, some repositiories require television ad data, for which you must submit an application. A link to the site where this application can be completed is included under the introduction section of this repository. 
 
-This repo is a part of the Data Processing. The output of this repo can be utilized in
+The Cross-platform Election Advertising Transparency Initiative (CREATIVE), is a jointly founded infrastructure project by Wesleyan Media Project [(WMP)](https://mediaproject.wesleyan.edu) and [Privacy Tech Lab](https://privacytechlab.org) at Wesleyan University in Connecticut. This program is funded by a National Science Foundation [grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2235006) to support making WMP’s work and data accessible to anyone. CREATIVE aims to provide cross-platform integration and standardization of digital advertising data related to federal elections by scraping or gaining access to digital ads themselves. (For more information on the CREATIVE project, click [here](https://www.creativewmp.com/)).
+
+
+This repo is a part of the Data Processing category. The output of this repo can be utilized in
 
 - [forum_digital_2022](https://github.com/Wesleyan-Media-Project/forum_digital_2022)
 - [ad_goal_classifier](https://github.com/Wesleyan-Media-Project/ad_goal_classifier)
@@ -30,6 +33,9 @@ This repo is a part of the Data Processing. The output of this repo can be utili
 - [Objective](#objective)
 
 - [Data](#data)
+
+- [Thank you!](#thank-you)
+
 
 ## Introduction
 
@@ -60,3 +66,35 @@ The data in the folder `facebook` contains a range of datasets that are used in 
 The data in folder `people` contains information about the candidates collected by WMP who are involved in the ads. The datasets contain fields including the candidates' unique id: `wmpid`, their full name `full_name`, FEC identifiers for different years or campaign cycles `fecid_2020`, `fecid_2022a`,`fecid_2022b`, `fecid_2022old`, Date candidate was added to the WMP person-level file `dateadded_person`, etc.
 
 The data in folder `wmp_entity_files` contains the entity files created by WMP. The datasets in this folder are divided into Google entity files and Facebook entity files.
+
+## Thank You
+
+<p align="center"><strong>We would like to thank our financial supporters!</strong></p><br>
+
+<p align="center">This material is based upon work supported by the National Science Foundation under Grant Numbers 2235006, 2235007, and 2235008.</p>
+
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2235006">
+    <img class="img-fluid" src="nsf.png" height="150px" alt="National Science Foundation Logo">
+  </a>
+</p>
+
+<p align="center">The Cross-Platform Election Advertising Transparency Initiative (CREATIVE) is a joint infrastructure project of the Wesleyan Media Project and privacy-tech-lab at Wesleyan University in Connecticut.
+
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://www.creativewmp.com/">
+    <img class="img-fluid" src="CREATIVE_logo.png"  width="220px" alt="CREATIVE Logo">
+  </a>
+</p>
+
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://mediaproject.wesleyan.edu/">
+    <img src="wmp-logo.png" width="218px" height="100px" alt="Wesleyan Media Project logo">
+  </a>
+</p>
+
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://privacytechlab.org/" style="margin-right: 20px;">
+    <img src="./plt_logo.png" width="200px" alt="privacy-tech-lab logo">
+  </a>
+</p>
