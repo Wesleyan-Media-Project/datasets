@@ -58,7 +58,7 @@ The data in the `people` folder contains information about the candidates collec
 
 ### 2.4 `wmp_entity_files`
 
-The data in the `wmp_entity_files` folder contains entity files created by WMP. The datasets in this folder are divided into Google entity files and Facebook entity files.
+The data in the `wmp_entity_files` folder contains entity files, which are essentially information about each advertiser, created by WMP. The datasets in this folder are divided into Google entity files and Facebook entity files.
 
 ## 3. Thank You
 
