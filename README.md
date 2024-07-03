@@ -45,7 +45,7 @@ The data in this repo is mostly in csv format.
 
 The data in the `candidates` folder is mostly about political candidates' information:
 
-- The data started with `wmpcand` is the candidate characteristics collected by WMP, where each candidate has its own unique identifier created and used by WMP (because candidates often have multiple Federal Election Commission (FEC) identifiers since they can run for different offices within a cycle, WMP uses our own to help distinguish individuals). The data `opponents_2022.R` contains information on political candidates and their opponents for elections held in 2022. Both `face_url_politician.csv` and `face_url_candidate.csv` contain candidates' face_url that can be used for face recognition.
+- The data started with `wmpcand` is the candidate characteristics collected by WMP and in partnership with OpenSecrets, where each candidate has its own unique identifier created and used by WMP (because candidates often have multiple Federal Election Commission (FEC) identifiers since they can run for different offices within a cycle, WMP uses our own to help distinguish individuals). The data `opponents_2022.R` contains information on political candidates and their opponents for elections held in 2022. Both `face_url_politician.csv` and `face_url_candidate.csv` contain candidates' face_url that can be used for face recognition.
 - As noted previously, some candidates have multiple Federal Election Commission (FEC) identifiers (fecids). `corrections_fecids.csv` exists to deal with this issue. For any fecid (first column), the second column specifies what it should be changed to. If a candidate had 3 fecids, and, say, the first one is the correct one, then they would simply have two rows, one with 2 -> 1, and one with 3 -> 1. The third column is purely cosmetic, just so that it is easier to remember who is who.
 
 ### 2.2 `facebook`
@@ -58,7 +58,7 @@ The data in the `people` folder contains information about the candidates collec
 
 ### 2.4 `wmp_entity_files`
 
-The data in the `wmp_entity_files` folder contains entity files, which are essentially information about each advertiser, created by WMP. The datasets in this folder are divided into Google entity files and Facebook entity files.
+The data in the `wmp_entity_files` folder contains entity files, which are essentially information about each advertiser, created by WMP and in partnership with OpenSecrets. These files essentially match advertiser information to other sources of data like FEC identifiers. The datasets in this folder are divided into Google entity files and Facebook entity files.
 
 ## 3. Thank You
 
