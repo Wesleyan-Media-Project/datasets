@@ -62,7 +62,7 @@ The data in the `wmp_entity_files` folder contains entity files, which are essen
 
 ### 2.5 `google`
 
-The data in the 'google' folder is composed of files containing Google 2020 data. These files include `google_2020_adid_06102022.csv.gz`, `google_2020_adid_text_clean.csv.gz` and `google_2020_adid_var1.csv.gz`. Generally these files are being preserved for internal use, as they are used in legacy files related to the 2020 election cycle. 
+The data in the 'google' folder is composed of files containing Google 2020 data. These files include `google_2020_adid_06102022.csv.gz`, `google_2020_adid_text_clean.csv.gz` and `google_2020_adid_var1.csv.gz`. Generally these files are being preserved for internal use, as they are used in legacy scripts. 
 
 ## 3. Thank You
 
