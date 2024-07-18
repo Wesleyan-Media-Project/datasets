@@ -60,6 +60,10 @@ The data in the `people` folder contains information about the candidates collec
 
 The data in the `wmp_entity_files` folder contains entity files, which are essentially information about each advertiser, created by WMP and in partnership with [OpenSecrets](https://www.opensecrets.org/). These files essentially match advertiser information to other sources of data like FEC identifiers and add important contextual information like whether the advertiser is a candidate, a party, an outside group, or unknown, etc. The datasets in this folder are divided into Google entity files and Facebook entity files.
 
+### 2.5 `google`
+
+The data in the 'google' folder is composed of files containing Google 2020 data. These files include 'google_2020_adid_06102022.csv.gz', 'google_2020_adid_text_clean.csv.gz' and 'google_2020_adid_var1.csv.gz'. Generally these files are being preserved for internal use, as they are used in legacy files related to the 2020 election cycle. 
+
 ## 3. Thank You
 
 <p align="center"><strong>We would like to thank our supporters!</strong></p><br>
