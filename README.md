@@ -35,7 +35,6 @@ The datasets in this repo are utilized in the following CREATIVE repos:
 - [race_of_focus](https://github.com/Wesleyan-Media-Project/race_of_focus)
 - [entity_linking](https://github.com/Wesleyan-Media-Project/entity_linking)
 - [fb_2020](https://github.com/Wesleyan-Media-Project/fb_2020)
-- [attack_like](https://github.com/Wesleyan-Media-Project/attack_like)
 
 ## 2. Data
 
